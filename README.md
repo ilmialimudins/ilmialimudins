@@ -7,6 +7,7 @@
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
 
+Welcome to my GitHub profile! I am a young and motivated programmer with experience in modern web technologies. Here you will find my personal projects, open-source contributions, and experimentations. I am passionate about creating elegant and user-friendly software. Thank you for visiting, feel free to reach out and collaborate on any project.
 
 - 👋 Hi, I’m @ilmialimudins
 - 👀 I’m interested in Softaware Developer
