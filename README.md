@@ -1,20 +1,50 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+### Hi there 👋
+  Welcome to my GitHub profile! I am a young and motivated programmer with experience in modern web technologies. Here you will find my personal projects, open-source contributions, and experimentations. I am passionate about creating elegant and user-friendly software. Thank you for visiting, feel free to reach out and collaborate on any project.
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+<p align="justify"> 
+  👤 <strong>A little about me :</strong>
+    <ul>
+      <li> I’m,  @ilmialimudins</li>
+      <li>Ex student at <a href="https://www.pelitabangsa.ac.id/" target="_blank">Universitas Pelita Bangsa</a>. <br></li>
+      <li>Member at <a href="https://codex-id.com//" target="_blank">Code X Academy Generation 1</a>. <br></li>
+      <li>👀 I’m interested in Softaware Developer</li>
+      <li>💞️ I’m looking to collaborate on Goolge, Amazon</li>
+      <li>1📫 How to reach me muhamad.ilmi86@gmail.com  </li>
+      <li>2📫 How to reach me ilmi.muhammad@outlook.com </li>
+   </ul>
+   
+  ✨<strong>Areas of expertise :</strong>
+   <ul>
+      <li>Software Engineering</li>
+      <li>Software Developer</li>
+   </ul>
+   
+  🌱<strong>I’m currently learning :</strong>
+   <ul>
+      <li>JavaScript</li>     <li>TypeScript</li> 
+      <li>React</li>          <li>Next</li> 
+      <li>Nest</li>           <li>PostgreSQL</li> 
+   </ul> 
 </p>
 
-Welcome to my GitHub profile! I am a young and motivated programmer with experience in modern web technologies. Here you will find my personal projects, open-source contributions, and experimentations. I am passionate about creating elegant and user-friendly software. Thank you for visiting, feel free to reach out and collaborate on any project.
+<!--
+**agisx/agisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👋 Hi, I’m @ilmialimudins
-- 👀 I’m interested in Softaware Developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Goolge, Amazon
-- 📫 How to reach me muhamad.ilmi86@gmail.com  
-- 📫 How to reach me ilmi.muhammad@outlook.com 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ilmi-688411117/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rd35.ooooo/)
 
 
 <!---
