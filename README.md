@@ -9,7 +9,7 @@
       <li>Member at <a href="https://codex-id.com//" target="_blank">Code X Academy Generation 1</a>. <br></li>
       <li>👀 I’m interested in Softaware Developer</li>
       <li>💞️ I’m looking to collaborate on Goolge, Amazon, etc</li> 
-      <li>1📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">muhamad.ilmi86@gmail.com</a>.   </li>
+      <li>1📫 How to reach me muhamad.ilmi86@gmail.com   </li>
       <li>2📫 How to reach me ilmi.muhammad@outlook.com </li>
    </ul>
    
