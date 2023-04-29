@@ -5,8 +5,6 @@
   👤 <strong>A little about me :</strong>
     <ul>
       <li> I’m,  @ilmialimudins</li>
-      <li>Ex student at <a href="https://www.pelitabangsa.ac.id/" target="_blank">Universitas Pelita Bangsa</a>. <br></li>
-      <li>Member at <a href="https://codex-id.com//" target="_blank">Code X Academy Generation 1</a>. <br></li>
       <li>👀 I’m interested in Softaware Developer</li>
       <li>💞️ I’m looking to collaborate on Goolge, Amazon, etc</li> 
       <li>1📫 How to reach me muhamad.ilmi86@gmail.com   </li>
