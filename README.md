@@ -5,8 +5,6 @@
   👤 <strong>A little about me :</strong>
     <ul>
       <li> I’m,  @ilmialimudins</li>
-      <li>👀 I’m interested in Softaware Developer</li>
-      <li>💞️ I’m looking to collaborate on Goolge, Amazon, etc</li> 
       <li>1📫 How to reach me muhamad.ilmi86@gmail.com   </li>
       <li>2📫 How to reach me ilmi.muhammad@outlook.com </li>
    </ul>
